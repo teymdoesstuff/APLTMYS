@@ -1,6 +1,3 @@
-***
-
-```markdown
 # A Programming Language That Makes You Suicidal
 
 [![Language Status](https://img.shields.io/badge/Status-Cognitohazard-red)](https://github.com)
