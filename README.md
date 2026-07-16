@@ -61,7 +61,7 @@ Example error messages include:
 
 Typing "Hello, World!" requires manually counting out over **100,000 invisible characters** with zero visual feedback. 
 
-Here is what "Hello, World!" looks like in the source code:
+Here is what around ~0.005% of "Hello, World!" looks like in the source code:
 
 ```text
 
